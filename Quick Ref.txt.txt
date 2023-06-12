@@ -1,0 +1,5 @@
+> Output path to be made "docs" in angular.json
+
+> ng build --output-path docs --base-href website (project name)
+
+> 
